@@ -1,4 +1,4 @@
-notifier
+Notifier
 ========
 
-Create a visual notification to your WordPress Users
+Create a visual notification to your WordPress Users.
